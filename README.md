@@ -3,3 +3,4 @@
 - LaudosWeb
 - Radiofarmacia
 - Rislite
+- TeleAllClinic
